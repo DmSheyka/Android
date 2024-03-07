@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Administrador de tareas</string>
+    <string name="texto_tarea_completada">todas las tareas completadas</string>
+    <string name="texto_buen_trabajo">Buen Trabajo!</string>
 </resources>
