@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Limonada</string>
+    <string name="texto_seleccionar_limon">Toque el limonero para seleccionar un limón</string>
+    <string name="texto_exprimir_limon">Siga presionando el limón para exprimirlo</string>
+    <string name="texto_beber_limonada">Toque la limonada para beberla</string>
+    <string name="texto_empezar_nuevamente">Toque el vaso vacío para empezar de nuevo</string>
+    <string name="texto_limonero">Árbol de limón</string>
+    <string name="texto_">Limón</string>
+    <string name="texto_vaso_limonada">Vaso de limonada</string>
+    <string name="texto_vaso_vacio">Vaso vacío</string>
+</resources>
